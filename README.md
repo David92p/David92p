@@ -8,5 +8,5 @@ Di seguito una breve descrizione di me e del mio percorso come Junior Developer.
 
 ### Studio
 
-- Ho conseguito il diploma come Tecnico della gestione aziendale indirizzo Informatico
-*Per quanto i miei studi siano stati caratterizzati dall'informatica di base, non mi hanno mai portato ad apprendere tecniche di stesura di codici e sviluppo in se, ma sicuramente mi hanno stimolato ad iniziare a capire che quella era la strada che mi avrebbe stimolato e avrebbe tirato fuori il meglio di me*.
+- Ho conseguito il diploma come Tecnico della gestione aziendale indirizzo Informatico.
+    *Per quanto i miei studi siano stati caratterizzati dall'informatica di base, non mi hanno mai portato ad apprendere tecniche di stesura di codici e sviluppo in se, ma sicuramente mi hanno stimolato ad iniziare a capire che quella era la strada che mi avrebbe stimolato e avrebbe tirato fuori il meglio di me*.
