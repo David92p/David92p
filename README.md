@@ -1,4 +1,4 @@
-![]https://it.bloggif.com/tmp/3a9645080e14aabfe2719970d693eaf2/text.gif?1613641371)
+![](https://it.bloggif.com/tmp/3a9645080e14aabfe2719970d693eaf2/text.gif?1613641371)
 
 # Benvenuto o benvenuta sul mio profio GitHub
 
