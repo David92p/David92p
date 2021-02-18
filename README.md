@@ -2,7 +2,7 @@
 
 
 Sono un ragazzo di 28 anni con l'obiettivo di diventare uno sviluppatore.
-La cosa che più mi stimola è sicuramente la necessità di essere sempre al passo, non esiste giorno in cui non abbiamo la possibilità di metterci alla prova apprendendo nuove skiils o approfondire quelle già in possesso.
+La cosa che più mi stimola è sicuramente la necessità di essere sempre al passo, non esiste giorno in cui non abbiamo la possibilità di metterci alla prova apprendendo nuove skills o approfondire quelle già in possesso.
 
 >“Fai quello che ami e non lavorerai un solo giorno della tua vita”<br>
 
