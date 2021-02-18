@@ -6,8 +6,6 @@ La cosa che più mi stimola è sicuramente la necessità di essere sempre al pas
 
 >“Fai quello che ami e non lavorerai un solo giorno della tua vita”<br>
 
-                           __Confucio__
-
 
 Di seguito una breve descrizione di me e del mio percorso come Junior Developer.
 
