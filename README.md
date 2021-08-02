@@ -27,15 +27,11 @@
     Penso che non ci sia cosa più bella di poter fare della propria passione un lavoro, anche se lo studio 
     e la continua voglia di rimanere al passo ed aggiornato sarà sempre parte di me. :blush:
 </p>
-
 <div align="center">
+    Filosofia da seguire:
 
     “Fai quello che ami e non lavorerai un solo giorno della tua vita”
-
-    ![](https://i.pinimg.com/originals/76/da/56/76da56c64e2ef8ac0f4372be663c76cd.gif)
-
 </div>
 
-
-
+![image](https://i.pinimg.com/originals/76/da/56/76da56c64e2ef8ac0f4372be663c76cd.gif 'title' {width=200px height=100px})
 
