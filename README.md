@@ -18,8 +18,8 @@
     programmazione come Js, che mi ha permesso di studiare le basi della programmazione, 
     e Python che ho approfondito particolarmente fino ad arrivare al mio primo framework come Django. 
 
-    💥 La cosa che più mi stimola è sicuramente la necessità di essere sempre al passo, non esiste giorno in 
-    cui non abbiamo la possibilità di metterci alla prova apprendendo nuove skills o approfondire quelle già in possesso.
+    💥 La cosa che più mi stimola è sicuramente la necessità di essere sempre al passo, non esiste giorno in cui
+    non abbiamo la possibilità di metterci alla prova apprendendo nuove skills o approfondire quelle già in possesso.
 
     🔥 Ho voglia di ampliare le mie conoscenze e mettermi in gioco toccando con mano i veri aspetti di questo lavoro 
     all'interno di un vero team lavorativo. 
