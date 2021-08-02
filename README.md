@@ -1,7 +1,12 @@
 
 ## Benvenuto sul mio GitHub
 
-<img style="float: right;" src="logo.png">
+<div align="center">
+
+![Welcome](logo.gif)
+
+</div>
+
 
 Sono un ragazzo di 28 anni con tanta passione e volontà di migliorare le mie conoscenze nel mondo della programmazione.
 
