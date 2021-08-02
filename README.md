@@ -17,7 +17,7 @@
 
     :fire: Ho voglia di ampliare le mie conoscenze e mettermi in gioco toccando con mano i veri aspetti di questo lavoro all'interno di un vero team lavorativo. 
     Penso che non ci sia cosa più bella di poter fare della propria passione un lavoro, anche se lo studio e la continua voglia di rimanere al passo ed aggiornato sarà sempre parte di me. :blush:
-
+</p>
 
 <div align="center">
 
