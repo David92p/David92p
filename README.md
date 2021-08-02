@@ -9,7 +9,7 @@
 
     🌀 Ho frequentato studi in ambito economico, anche se ho avuto la fortuna di poter studiare informatica basilare per 3 anni. 
 
-    z⭐  Finiti gli studi ho fatto diversi lavori, principalmente in ambito amministrativo, anche se la passione e la buona volontà di migliorare le mie conoscenze nel mondo della programmazione non si sono fermate. 
+    ⭐  Finiti gli studi ho fatto diversi lavori, principalmente in ambito amministrativo, anche se la passione e la buona volontà di migliorare le mie conoscenze nel mondo della programmazione non si sono fermate. 
 
     💪  Da autodidatta ho approfondito gli studi in Html e Css, fino ad arrivare ai primi linguaggi di programmazione come Js, che mi ha permesso di studiare le basi della programmazione, e Python che ho approfondito particolarmente fino ad arrivare al mio primo framework come Django. 
 
