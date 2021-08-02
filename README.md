@@ -33,5 +33,5 @@
     “Fai quello che ami e non lavorerai un solo giorno della tua vita”
 </div>
 <div align="center">
-    <img src="https://i.pinimg.com/originals/76/da/56/76da56c64e2ef8ac0f4372be663c76cd.gif">
+    <img src="https://i.pinimg.com/originals/76/da/56/76da56c64e2ef8ac0f4372be663c76cd.gif" height="200px" width="100px">
 </div>
