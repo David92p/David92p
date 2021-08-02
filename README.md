@@ -1,6 +1,3 @@
-
-## Benvenuto sul mio GitHub
-
 <div align="center">
 
 ![Welcome](logo.gif)
