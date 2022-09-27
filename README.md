@@ -5,10 +5,9 @@
 </div>
 
 <p>
-    Ciao a tutti, mi chiamo David e sono un ragazzo di 29 anni 👋 
+    :smile: Ciao a tutti, mi chiamo David 👋 
 
-    🌀 Ho frequentato gli studi ambito economico, anche se ho avuto la fortuna di poter studiare 
-    informatica basilare per 3 anni. 
+    🌀 Ho frequentato gli studi in ambito economico-informatico.
 
     ⭐  Finiti gli studi ho fatto diversi lavori, principalmente in ambito amministrativo, 
     anche se la passione e la buona volontà di migliorare le mie conoscenze nel mondo della programmazione 
